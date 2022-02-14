@@ -1,21 +1,16 @@
 [Retour vers la list des véhicules](index.md)
-# Last update for Glife vehicle (Civilian & Police)
 ## Patch note 09 février
-- @Shleidja Fix duplicated handling for exemplar
-- (Shleidja) Fix wrong vehicle class for somes vehicule (no real change just more optimised)
-- (Shleidja) Update vehicle list with correct class for staff
+- *(Shleidja)* Fix duplicated handling for exemplar
+- *(Shleidja)* Fix wrong vehicle class for somes vehicule (no real change just more optimised)
+- *(Shleidja)* Update vehicle list with correct class for staff [Link](shleidja.github.io)
 
 ## Patch note 08 février
-- @Gost
-- Remove PolTarv
-- Remove LSSDinsurgent
-- Add CenturionLSPD
-- Add CenturionLSSD
+- *(Gost)* Remove PolTarv / LSSDinsurgent
+- *(Gost)* Add CenturionLSPD / CenturionLSSD
 
 ## Patch note 07 février
-- Add Modkit to Gruppesechs vehicule float (https://streamable.com/gym9gc)
-
-- Remove some unused vehicule from cnt & move all the other to cnt2
+- (Shleidja) Add Modkit to Gruppesechs vehicule float [Preview](https://streamable.com/gym9gc)
+- (Shleidja) Remove some unused vehicule from cnt & move all the other to cnt2
  - ummarkbuff
  - sanchezbcso
  - newsvan (Same inside WEAZEL pack inside ve_civil)
