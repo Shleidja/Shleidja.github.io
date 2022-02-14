@@ -1,4 +1,3 @@
-[patchnote.md]
 # Véhicule Civil
 **Berline**
 - brigham
