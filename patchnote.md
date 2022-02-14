@@ -20,7 +20,7 @@
   - Remove Old Darnell Bros (a new one is available from previous version)
 
 ## Patch note 29 janvier
-- (Gost) Add LScoFD Pack
+- *(Gost)* Add LScoFD Pack
 **Add Livery**
   - lsfdstanier2
   - lsfdamb4
