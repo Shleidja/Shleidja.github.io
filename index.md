@@ -1,4 +1,4 @@
-[Patchnote](shleida.github.io/patchnote.md)
+[Patchnote](patchnote.md)
 # Véhicule Civil
 **Berline**
 - brigham
