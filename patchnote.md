@@ -1,17 +1,17 @@
-# Test de titre
+# Last update for Glife vehicle (Civilian & Police)
 ## Patch note 09 février
 - (Shleidja) Fix duplicated handling for exemplar
 - (Shleidja) Fix wrong vehicle class for somes vehicule (no real change just more optimised)
 - (Shleidja) Update vehicle list with correct class for staff
 
-# Patch note 08 février
+## Patch note 08 février
 - (Gost) 
 - Remove PolTarv
 - Remove LSSDinsurgent
 - Add CenturionLSPD
 - Add CenturionLSSD
 
-# Patch note 07 février
+## Patch note 07 février
 - Add Modkit to Gruppesechs vehicule float (https://streamable.com/gym9gc)
 
 - Remove some unused vehicule from cnt & move all the other to cnt2
@@ -23,7 +23,7 @@
  - Remove Stockade (Brinks on veille sur vos bourses)
  - Remove Old Darnell Bros (a new one is available from previous version)
 
-# Patch note 29 janvier
+## Patch note 29 janvier
 - (Gost) Add LScoFD Pack
   - Add Livery
     - lsfdstanier2
@@ -44,7 +44,7 @@
     - lsfdscout2
     - lsfdyosemite
 
-# Patch note 24 janvier
+## Patch note 24 janvier
 - *(Shleidja)* LSPD/LSSD: All torrence buff vMax & Accel
 - *(Shleidja)* LSPD/LSSD: Alamo fix attempt for rebound
 - *(Gost)* Add livery SAMS (Lite)
@@ -59,7 +59,7 @@
   - LSPDmav
 
 
-# Patch note 23 janvier
+## Patch note 23 janvier
 - *(Gost)* 
   - LSPD: Fix Layout LSPDbus 
   - MED: Fix Carcols EMSNSPEEDO w/ CNT2
@@ -83,26 +83,26 @@
     - Auto Repair
 
 
-# Patch note 19 janvier
+## Patch note 19 janvier
 - *(Shleidja)* CIVIL: Buff Kusa & Kunoichi
 
-# Patch note 18 janvier
+## Patch note 18 janvier
 - *(Shleidja)* LSPD/LSSD: Buff de la polbuffalo (autre buffalo que TD)
 
-# Patch note 16 janvier
+## Patch note 16 janvier
 - *(Shleidja)* LSPD: Changement de la Torrence 2016 > Buffalo 09 (Trafic division)
 
-# Patch note 12 janvier
+## Patch note 12 janvier
 - *(Gost)* Optimisation des ytd (yellow -> blue)
 - *(Shleidja)* Fix scharmann qui gigotte comme un flamby #2
 - *(Shleidja)* Buff des alamo LSPD/LSSD pour ajouter de la diversité (equivalent a un scoot avec des attributions différentes) et travail sur les suspensions
 - *(Shleidja + Brigann)* Changement léger sur le modele du towtruck3 pour éviter les soucis de collisions avec les gros véhicules
 - *(Shleidja)* Nerf du speedo police pour l'adapter a la version civil et rename d'un handling qui avait un nom similaire pour éviter les conflits (EMS/POLICE)
 
-# Patch note 10 janvier
+## Patch note 10 janvier
 - *(Gost)* Fix carcols all SASP / LSSDnewScout16 / EMSnspeedo
 
-# Patch note 9 janvier
+## Patch note 9 janvier
 **Police**
 - *(Shleidja)* TD (LSPDtorrence) / TED (LSSDbuffalo09): Mise a jour du handling vMax: ~220 / buff accéléraration
 
@@ -120,7 +120,7 @@
 - *(Shleidja)* Mise a jour du FXmanifest (retrait du load des fichier inexistant)
 - *(Shleidja)* FXmanifest, fix d'un fichier qui ne loadais pas (WEAPON_SHOP_INFO > WEAPON_SHOP_INFO_METADATA_FILE (hose LSFD))
 
-# Patch note 8 janvier
+## Patch note 8 janvier
 - *(Gost)* Fix carcols Lifeguard
 - *(Gost)* Changement de la texture de la pushbar du LSSDcontender (Retrait des smiley)
 
@@ -136,7 +136,7 @@
 - *(Shleidja)* Fix d'un handling qui ne chargais pas 
 - *(Shleidja)* Nerf du scout USSS qui était bien trop puissant (plus que les scout police)
 
-# Patch note 7 Janvier
+## Patch note 7 Janvier
 **Police**
 - *(Shleidja)* LSPD/LSSD fugitive: Buff afin qu'elle égale les autres véhicule (Stanier, washington, buffalo, etc)
 - *(Gost)* Ajout d'un YTD manquant pour le OLD Alamo GND qui causais un probléme de chargement
@@ -148,10 +148,10 @@
 **FXManifest**
 - *(Shleidja)* Retrait du S a "game" qui causais le non chargement des ressources.
 
-# Patch note 6 Janvier
+## Patch note 6 Janvier
 - *(Gost)* changement des nom de fichier (dans le fxmanifest aussi) avec des _ à la place des - (demande par stacked, c'est plus conventionnel)
 
-# Patch note 5 Janvier
+## Patch note 5 Janvier
 - *(Gost)* Ajout du nouveau Alamo OLD + d'une livery GND (Replace)
 
 **Police**
