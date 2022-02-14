@@ -15,30 +15,30 @@
   - sanchezbcso
   - newsvan (Same inside WEAZEL pack inside ve_civil)
   - marverick2 (Previously Maverick BCSO)
-- Livery
+**Livery**
   - Remove Stockade (Brinks on veille sur vos bourses)
   - Remove Old Darnell Bros (a new one is available from previous version)
 
 ## Patch note 29 janvier
 - (Gost) Add LScoFD Pack
-  - Add Livery
-    - lsfdstanier2
-    - lsfdamb4
-    - lsfdtruck
-    - lsfdtruckold
-    - lsfdtruckhazmat
-    - LSFDwaterres
-    - LSFDutil
-    - LSFDamb3
-    - LSFDamb4
-  - Add New model
-    - ambucara
-    - bcfdbufac
-    - lsfdbufac (+livery umk)
-    - lsfdbufs (+livery BCFD & umk)
-    - lsfdscout (+livery BCFD)
-    - lsfdscout2
-    - lsfdyosemite
+**Add Livery**
+  - lsfdstanier2
+  - lsfdamb4
+  - lsfdtruck
+  - lsfdtruckold
+  - lsfdtruckhazmat
+  - LSFDwaterres
+  - LSFDutil
+  - LSFDamb3
+  - LSFDamb4
+**Add New model**
+  - ambucara
+  - bcfdbufac
+  - lsfdbufac (+livery umk)
+  - lsfdbufs (+livery BCFD & umk)
+  - lsfdscout (+livery BCFD)
+  - lsfdscout2
+  - lsfdyosemite
 
 ## Patch note 24 janvier
 - *(Shleidja)* LSPD/LSSD: All torrence buff vMax & Accel
@@ -53,7 +53,6 @@
   - LSFDamb3
   - MOCPACKER2
   - LSPDmav
-
 
 ## Patch note 23 janvier
 - *(Gost)* 
@@ -77,7 +76,6 @@
     - S.A Cleaning
     - Pearls
     - Auto Repair
-
 
 ## Patch note 19 janvier
 - *(Shleidja)* CIVIL: Buff Kusa & Kunoichi
