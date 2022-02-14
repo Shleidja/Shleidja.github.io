@@ -9,15 +9,15 @@
 - *(Gost)* Add CenturionLSPD / CenturionLSSD
 
 ## Patch note 07 février
-- (Shleidja) Add Modkit to Gruppesechs vehicule float [Preview](https://streamable.com/gym9gc)
-- (Shleidja) Remove some unused vehicule from cnt & move all the other to cnt2
- - ummarkbuff
- - sanchezbcso
- - newsvan (Same inside WEAZEL pack inside ve_civil)
- - marverick2 (Previously Maverick BCSO)
- Livery
- - Remove Stockade (Brinks on veille sur vos bourses)
- - Remove Old Darnell Bros (a new one is available from previous version)
+- **(Shleidja)** Add Modkit to Gruppesechs vehicule float [Preview](https://streamable.com/gym9gc)
+- **(Shleidja)** Remove some unused vehicule from cnt & move all the other to cnt2
+  - ummarkbuff
+  - sanchezbcso
+  - newsvan (Same inside WEAZEL pack inside ve_civil)
+  - marverick2 (Previously Maverick BCSO)
+- Livery
+  - Remove Stockade (Brinks on veille sur vos bourses)
+  - Remove Old Darnell Bros (a new one is available from previous version)
 
 ## Patch note 29 janvier
 - (Gost) Add LScoFD Pack
