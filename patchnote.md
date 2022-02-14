@@ -1,12 +1,12 @@
 [Retour vers la list des véhicules](index.md)
 # Last update for Glife vehicle (Civilian & Police)
 ## Patch note 09 février
-- (Shleidja) Fix duplicated handling for exemplar
+- @Shleidja Fix duplicated handling for exemplar
 - (Shleidja) Fix wrong vehicle class for somes vehicule (no real change just more optimised)
 - (Shleidja) Update vehicle list with correct class for staff
 
 ## Patch note 08 février
-- (Gost) 
+- @Gost
 - Remove PolTarv
 - Remove LSSDinsurgent
 - Add CenturionLSPD
