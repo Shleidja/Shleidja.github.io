@@ -1,8 +1,9 @@
 [Retour vers la list des véhicules](index.md)
 ## Patch note 15 férvier
-- *(Shleidja)* Update LSSD vehicle handling
-  - Alamo improved handling & buff performences
-  - Sadler Buff performences
+- *(Shleidja)* Update police vehicle handling
+  - polalamo: improved handling & buff performences
+  - LSSDsadler: Buff performences
+  - polwash: Buff performences > Stanier
 
 ## Patch note 09 février
 - *(Shleidja)* Fix duplicated handling for exemplar
