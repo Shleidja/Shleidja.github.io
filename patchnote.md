@@ -24,12 +24,14 @@
   - sanchezbcso
   - newsvan (Same inside WEAZEL pack inside ve_civil)
   - marverick2 (Previously Maverick BCSO)
+
 **Livery**
   - Remove Stockade (Brinks on veille sur vos bourses)
   - Remove Old Darnell Bros (a new one is available from previous version)
 
 ## Patch note 29 janvier
 - *(Gost)* Add LScoFD Pack
+
 **Add Livery**
   - lsfdstanier2
   - lsfdamb4
@@ -40,6 +42,7 @@
   - LSFDutil
   - LSFDamb3
   - LSFDamb4
+
 **Add New model**
   - ambucara
   - bcfdbufac
@@ -67,7 +70,7 @@
 - *(Gost)* 
   - LSPD: Fix Layout LSPDbus 
   - MED: Fix Carcols EMSNSPEEDO w/ CNT2
-  - LSSD : Fix Carcols LSSDNewScout16 w/ CNT2
+  - LSSD: Fix Carcols LSSDNewScout16 w/ CNT2
 
 - *(Shleidja)* ENTREPRISE: Ajout de 15 livery sur le pounder classique pour les entreprise suivantes:
     - E Cola
