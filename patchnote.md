@@ -4,7 +4,9 @@
   - polalamo: improved handling & buff performences
   - LSSDsadler: Buff performences
   - polwash: Buff performences > Stanier
-
+  **ve_med**
+  - ambucara: buff perf
+  
 ## Patch note 09 février
 - *(Shleidja)* Fix duplicated handling for exemplar
 - *(Shleidja)* Fix wrong vehicle class for somes vehicule (no real change just more optimised)
