@@ -1,4 +1,9 @@
 [Retour vers la list des véhicules](index.md)
+## Patch note 15 férvier
+- *(Shleidja)* Update LSSD vehicle handling
+  - Alamo improved handling & buff performences
+  - Sadler Buff performences
+
 ## Patch note 09 février
 - *(Shleidja)* Fix duplicated handling for exemplar
 - *(Shleidja)* Fix wrong vehicle class for somes vehicule (no real change just more optimised)
