@@ -1,4 +1,11 @@
 [Retour vers la list des véhicules](index.md)
+## Patch note 19 férvier
+- *(Shleidja)* Buffalo Update:
+  - TE/TED (09): Buff vMax
+  - Patrol (13/16): Increase performences ~10%
+-  *(Shleidja)* Alamo Update:
+  - Adapt to the polscout handling with fixes, attempt have a nice maniability
+
 ## Patch note 15 férvier
 - *(Shleidja)* Update police vehicle handling
   - polalamo: improved handling & buff performences
