@@ -1,4 +1,8 @@
 [Retour vers la list des véhicules](index.md)
+## Patch note 21 février
+- *(Shleidja)*: Fix gouvernment vehicle
+  - onebeast & whitehawk are now clearly loading with correct vehicle.meta & handling
+
 ## Patch note 19 férvier
 - *(Shleidja)* Buffalo Update:
   - TE/TED (09): Buff vMax
