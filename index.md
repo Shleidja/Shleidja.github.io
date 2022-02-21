@@ -301,3 +301,14 @@
 - lsfdscout
 - lsfdscout2
 - lsfdyosemite
+
+## Gouvernment Of San Andreas & United States Secret Services
+- USSSgranger
+- USSSgrangerbar
+- USSShazard
+- USSSscout
+- USSStorrence
+- USSSvan
+- USSSvip
+- whitehawk
+- onebeast
