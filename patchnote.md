@@ -1,4 +1,22 @@
 [Retour vers la list des véhicules](index.md)
+## Patch note 26 mars
+- *(Gost)*: Add new LSSD Pack
+  - Livery for polpreda & LSPDtorrenceslick
+  - LSSD Puma (Helico)
+  - LSSD Bus
+
+## Patch note 21 mars
+- *(Gost)*: Add K9 Livery on LSSDStanier
+
+## Patch note 15 mars
+- *(Shleidja)*: Fix LSSDsar audionamehash
+
+## Patch note 6 mars
+- *(Shleidja)*: Fix vorstand modkits
+
+## Patch note 2 mars
+- *(Gost)*: Fix centurion LIGHTS
+
 ## Patch note 21 février
 - *(Shleidja)*: Fix gouvernment vehicle
   - onebeast & whitehawk are now clearly loading with correct vehicle.meta & handling

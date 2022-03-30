@@ -214,6 +214,9 @@
 - LSSDalamo
 - LSSDthrust
 - centurionLSSD
+- LSSDbus
+- LSSDouma
+- LSPDtorrenceslick (livery)
 
 ## Shared (LSPD/LSSD/LSFD)
 - mocpacker
