@@ -1,4 +1,7 @@
 [Retour vers la list des véhicules](index.md)
+## Patch note 04 avril 2022
+- *(Shleidja)*: Increase LSPD/LSSD centurion performences to made thel able to clim a mountain & remove duplicated handling
+
 ## Patch note 26 mars
 - *(Gost)*: Add new LSSD Pack
   - Livery for polpreda & LSPDtorrenceslick
