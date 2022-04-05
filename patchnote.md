@@ -1,6 +1,7 @@
 [Retour vers la list des véhicules](index.md)
 ## Patch note 04 avril 2022
 - *(Shleidja)*: Increase LSPD/LSSD centurion performences to made thel able to clim a mountain & remove duplicated handling
+- *(Shleidja)*: Add some weight to the polbuffalo, trying to fix rebound on non flat surface
 
 ## Patch note 26 mars
 - *(Gost)*: Add new LSSD Pack
