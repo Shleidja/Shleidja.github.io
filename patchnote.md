@@ -1,6 +1,5 @@
 [Retour vers la list des véhicules](index.md)
 ## Patch note 17 & 18 avril 2022
-- *(Shleidja)*:
 - *(Shleidja)*: (ve_med) Fix scout handling (Was a rocket)
 - *(Shleidja)*: (ve_med) remove LSFD12 handling, unused
 - *(Shleidja)*: (cnt2) remove comet4 & pounder2 weapon custom
