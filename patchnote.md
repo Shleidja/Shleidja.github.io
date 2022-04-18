@@ -1,13 +1,14 @@
 [Retour vers la list des véhicules](index.md)
 ## Patch note 17 & 18 avril 2022
 - *(Shleidja)*: (ve_med) Fix scout handling (Was a rocket)
-- *(Shleidja)*: (ve_med) remove LSFD12 handling, unused
-- *(Shleidja)*: (cnt2) remove comet4 & pounder2 weapon custom
+- *(Shleidja)*: (ve_med) Remove LSFD12 handling, unused
+- *(Shleidja)*: (cnt2) Remove comet4 & pounder2 weapon & metalic protection custom
 - *(Shleidja)*: (ve_civil) up streiter2 (Has panto perf)
-- *(Shleidja)*: (ve_civil) Correct carols (somes performence was cheated they are now average)
-- *(Shleidja)*: (cnt2) pounder
+- *(Shleidja)*: (ve_civil) Fix carcols (somes performence was cheated they are now average)
+- *(Shleidja)*: (cnt2) Pounder livery for enterprises
   - E Cola become Patriot Beer
   - Up-N-Atoim become Deludamol
+  - Allow paint respray (Metalic, classic dosn't work for no reason)
 
 ## Patch note 9 avril 2022
 - *(Gost)*: (ve_lssd) Remove buzzard & sparrow
