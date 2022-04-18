@@ -1,4 +1,5 @@
-[Lien vers le Patchnote](patchnote.md) *Derniere mise a jour: 14 février 2022*
+[Lien vers le Patchnote](patchnote.md)
+
 ## Véhicule Civil
 **Berline**
 - brigham
