@@ -1,4 +1,28 @@
 [Retour vers la list des véhicules](index.md)
+## Patch note 27 avril 2022
+- *(Shleidja)*: (ve_civil) Fix Handling & Carcols
+  - Sunrise nerf carcols (Perf vmt_engine) & drag coef *Report by a player in my DM*
+  - Some carcols of vehicule were too much strong, they have been normalized
+
+## Patch note 25 avril 2022
+- *(Shleidja)*: (cnt2) Nerf snspistol (Pétoire) aakamz request
+  - Damage & Range have been reduced
+
+ ## Patch note 24 avril 2022
+- *(Gost)*: (ve_lspd) Add Slick Torrence livery for LSSD
+  - Livery added to the LSPDtorrenceslick
+
+## Patch note 21 avril 2022
+- *(Shleidja)*: (cnt2) Re-fix comet4 weapon
+  - I used the wrong method, so all the comet4 were able to shoot with submachine gun, now they are completly un-militarized 
+
+## Patch note 20 avril 2022
+- *(Shleidja)*: (ve_civil) Templar wheeling nerf Twikii request
+  - Temporaly remove the ability for the templar to do a Wheeling, model has some issue, that was juste over-powering the bike top speed
+
+## Patch note 19 avril 2022
+- *(Shleidja)*: (ve_lssd) Re-fix LSSDsar audionamehash
+
 ## Patch note 17 & 18 avril 2022
 - *(Shleidja)*: (ve_med) Fix scout handling (Was a rocket)
 - *(Shleidja)*: (ve_med) Remove LSFD12 handling, unused
