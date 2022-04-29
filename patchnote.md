@@ -1,8 +1,20 @@
 [Retour vers la list des véhicules](index.md)
+## Patch note 29 avril 2022
+- *(Shleidja)*: (cnt2) Gang update
+  - Return to GTA V base handling (with personnal touch) for primo2 and glendale2 to made them more playable
+
+## Patch note 28 avril 2022
+- *(Shleidja)*: (ve_lspd) & (ve_lssd) add carcols for full performences at level 1 for blufor
+  - Moteur 1 - Reprog moteur Niv. 1
+  - Frein 1 - Freins de rue
+  - Transmission - Transmission de rue
+  - Turbo ✅ 
+
 ## Patch note 27 avril 2022
 - *(Shleidja)*: (ve_civil) Fix Handling & Carcols
   - Sunrise nerf carcols (Perf vmt_engine) & drag coef *Report by a player in my DM*
   - Some carcols of vehicule were too much strong, they have been normalized
+  - templar -> Cliffhanger
 
 ## Patch note 25 avril 2022
 - *(Shleidja)*: (cnt2) Nerf snspistol (Pétoire) aakamz request
