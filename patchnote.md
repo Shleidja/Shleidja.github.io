@@ -1,7 +1,24 @@
 [Retour vers la list des véhicules](index.md)
+## Patch note 16 mai 2022
+- *(Shleidja)*: (ve_civil) Buff sombrero so, now he's like a bobber
+
+## Patch note 6 mai 2022
+- *(Shleidja)*: (ve_lspd) Create a proper handling for the umkbuffalo insted of using the polbuffalo handling who is made for pursuit
+
+## Patch note 6 mai 2022
+- *(Shleidja)*: (cnt2) Stream some vehicules, they are now protected from custom handling
+
+## Patch note 2 mai 2022
+- *(Shleidja)*: (ve_lspd) & (ve_lssd) Modify carcols performences values to bring them back to inital position, now each state give a little more performences
+
+## Patch note 30 Avril 2022
+- *(Shleidja)*: (ve_lspd) & (ve_lssd) Modify carcols performences values to made the state 1 equivalent tos state 4 only for blufor
+- *(Shleidja)*: (ve_lspd) Update polbuffalo who was nerfed, buff to grant correct performences
+
 ## Patch note 29 avril 2022
 - *(Shleidja)*: (cnt2) Gang update
   - Return to GTA V base handling (with personnal touch) for primo2 and glendale2 to made them more playable
+- *(Shleidja)*: (cnt2) Stream some vehicules, they are now protected from custom handling
 
 ## Patch note 28 avril 2022
 - *(Shleidja)*: (ve_lspd) & (ve_lssd) add carcols for full performences at level 1 for blufor
