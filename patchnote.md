@@ -1,11 +1,22 @@
 [Retour vers la list des véhicules](index.md)
+## Patch note 01 juin 2022
+- *(Shleidja)*: (ve_lspd) Buff LSPDumklandstalker
+
+## Patch note 24 mai 2022
+- *(Shleidja)*: (cnt2) Remove duplicated carvariation of zombieb
+- *(Shleidja)*: Cleanup useless file & rename somes name to make them more understandable
+
+## Patch note 18 mai 2022
+- *(Shleidja)*: (ve_lspd) Attempt, Glass Resistance update for fugitive
+- *(Shleidja)*: (ve_med) Attempt to reduce the wiggling when turning & adjust the drive force for the water rescue
+
 ## Patch note 16 mai 2022
 - *(Shleidja)*: (ve_civil) Buff sombrero so, now he's like a bobber
 
 ## Patch note 6 mai 2022
 - *(Shleidja)*: (ve_lspd) Create a proper handling for the umkbuffalo insted of using the polbuffalo handling who is made for pursuit
 
-## Patch note 6 mai 2022
+## Patch note 4 mai 2022
 - *(Shleidja)*: (cnt2) Stream some vehicules, they are now protected from custom handling
 
 ## Patch note 2 mai 2022
