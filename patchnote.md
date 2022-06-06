@@ -1,6 +1,12 @@
 [Retour vers la list des véhicules](index.md)
 ## Patch note 01 juin 2022
+- *(Shleidja)*: (ve_civil) Attempt to made chimerac more controlable when turning
+
+## Patch note 01 juin 2022
 - *(Shleidja)*: (ve_lspd) Buff LSPDumklandstalker
+
+## Patch note 29 mai 2022
+- *(Shleidja)*: (global) Cleanup files
 
 ## Patch note 24 mai 2022
 - *(Shleidja)*: (cnt2) Remove duplicated carvariation of zombieb
