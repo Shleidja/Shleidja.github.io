@@ -1,5 +1,5 @@
 [Retour vers la list des véhicules](index.md)
-## Patch note 01 juin 2022
+## Patch note 06 juin 2022
 - *(Shleidja)*: (ve_civil) Attempt to made chimerac more controlable when turning
 
 ## Patch note 01 juin 2022
