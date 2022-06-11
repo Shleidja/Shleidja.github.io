@@ -1,4 +1,14 @@
 [Retour vers la list des véhicules](index.md)
+## Patch note 11 juin 2022
+- *(Shleidja)*: (ve_civil > cnt2) change policeb handling locationµ
+- *(Shleidja)*: (ve_med / ve_shared) add livery for SAMS
+  - emsnspeedo
+  - mocpacker2
+  - lspdmav
+- *(Shleidja)*: (ve_med / ve_shared) add livery for LSFD
+  - lsfdscout
+  - mocpacker2
+
 ## Patch note 06 juin 2022
 - *(Shleidja)*: (ve_civil) Attempt to made chimerac more controlable when turning
 
