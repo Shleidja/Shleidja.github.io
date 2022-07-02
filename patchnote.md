@@ -1,4 +1,19 @@
 [Retour vers la list des véhicules](index.md)
+## Patch note 30 juin 2022
+- *(Shleidja)*: Add Mayans Livery
+  - (cnt2) gburrito
+  - (ve_civil) vigero3
+
+## Patch note 19 juin 2022
+- *(Gost)*: Add new livery for SP
+  - (ve_lssd) LSPP livery for LSSDseashark
+  - (ve_lspd) USSS livery for LSPDvalkyrie
+  - (ve_lspd) LSFD livery for LSPDvalkyrie
+  - (ve_shared) USSS livery for LSPDmav
+
+## Patch note 12 juin 2022
+- *(Shleidja)*: (ve_lspd) add collision damage modifier to poltraficdiv
+
 ## Patch note 11 juin 2022
 - *(Shleidja)*: (ve_civil > cnt2) change policeb handling locationµ
 - *(Shleidja)*: (ve_med / ve_shared) add livery for SAMS
