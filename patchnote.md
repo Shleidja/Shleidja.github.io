@@ -13,7 +13,7 @@
 - *(Shleidja)*: Improving LSPD/LSSD motorbikes
   - (ve_lspd/ve_lssd) Changing audionamehash of the Thrust
   - (ve_lspd) Add themself some more power
-  - (ve_lspd)Add the police modkit so now they can be custom
+  - (ve_lspd) Add the police modkit so now they can be custom
 
 ## Patch note 30 juin 2022
 - *(Shleidja)*: Add Mayans Livery
