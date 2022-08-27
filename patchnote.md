@@ -1,4 +1,20 @@
 [Retour vers la list des véhicules](index.md)
+## Patch note 27 aout 2022
+- *(Shleidja)*: Add LSFD Forest Fire vehicle & livery
+  - (ve_med) Add the brush vehicle
+  - (ve_med) Add LSFD livery to the emsnspeedo
+  - (ve_lssd) Add LSFD livery to lssdsar
+
+## Patch note 24 juillet 2022
+- *(Shleidja)*: Update Helion2 (HelionXL) handling
+  - (ve_civil) Add a modified version of the gta 5 original model to made him more playable
+
+## Patch note 20 juillet 2022
+- *(Shleidja)*: Improving LSPD/LSSD motorbikes
+  - (ve_lspd/ve_lssd) Changing audionamehash of the Thrust
+  - (ve_lspd) Add themself some more power
+  - (ve_lspd)Add the police modkit so now they can be custom
+
 ## Patch note 30 juin 2022
 - *(Shleidja)*: Add Mayans Livery
   - (cnt2) gburrito
