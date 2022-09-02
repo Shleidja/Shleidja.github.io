@@ -1,4 +1,16 @@
 [Retour vers la list des véhicules](index.md)
+## Patch note 02 septembre 2022
+- *(Shleidja)*: (ve_med) Add LSFD livery
+  - brush
+  - ambucara
+  - LSSD Sar
+
+- *(Shleidja)*: (ve_shared) Fix dinghy & predator police light
+- *(Shleidja)*: (ve_med) Fix + buff ambucara & fire buffalo handling 
+- *(Shleidja)*: (ve_med) Add police mod kit to all vehicle (Alors Correction of customs)
+- *(Shleidja)*: (ve_lssd) Buff LSSD contender now he can pursuit draugur & other off road vehicles
+- *(Shleidja)*: (ve_lssd/ve_lspd) Fix audionamehash of lspd/lssd thrust now they have sirens
+
 ## Patch note 27 aout 2022
 - *(Shleidja)*: Add LSFD Forest Fire vehicle & livery
   - (ve_med) Add the brush vehicle
