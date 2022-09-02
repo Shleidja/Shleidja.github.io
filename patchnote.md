@@ -7,7 +7,7 @@
 
 - *(Shleidja)*: (ve_shared) Fix dinghy & predator light
 - *(Shleidja)*: (ve_med) Fix + buff ambucara & fire buffalo handling 
-- *(Shleidja)*: (ve_med) Add police mod kit to all vehicle (Alors Correction of customs)
+- *(Shleidja)*: (ve_med) Add police mod kit to all vehicle (Correction of customs)
 - *(Shleidja)*: (ve_lssd) Buff LSSD contender now he can pursuit draugur & other off road vehicles
 - *(Shleidja)*: (ve_lssd/ve_lspd) Fix audionamehash of lspd/lssd thrust now they have sirens
 
