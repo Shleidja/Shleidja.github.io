@@ -3,7 +3,7 @@
 - *(Shleidja)*: (ve_med) Add LSFD livery
   - brush
   - ambucara
-  - LSSD Sar
+  - LSSD SAR
 
 - *(Shleidja)*: (ve_shared) Fix dinghy & predator police light
 - *(Shleidja)*: (ve_med) Fix + buff ambucara & fire buffalo handling 
