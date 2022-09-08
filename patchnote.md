@@ -1,5 +1,5 @@
 [Retour vers la list des véhicules](index.md)
-## Patch note 02 septembre 2022
+## Patch note 08 septembre 2022
 - *(Shleidja)*: (ve_lspd) Buff LSPD Everon now he can pursuit draugur & other off road vehicles
 
 ## Patch note 02 septembre 2022
